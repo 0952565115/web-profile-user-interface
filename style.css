@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lobster&family=Quicksand:wght@300..700&display=swap');
+
+
+body {
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    background-image: url('/image-from-rawpixel-id-558805-jpeg.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+span {
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+}
+
+h1, h2 {
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 0.75;
+}
+
+.bg-light {
+    --bs-bg-opacity: 0.75;
+}
